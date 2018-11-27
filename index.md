@@ -3,7 +3,7 @@ layout: cv
 title: Adam Ali's CV
 ---
 # Muhamad Adam Ali
-Physicist, Mathematician, Cambridge professor.
+Linux System Administrator , Virtualization Enthusiast.
 
 <div id="webaddress">
 <a href="isaac@applesdofall.org">isaac@applesdofall.org</a>
