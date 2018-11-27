@@ -13,7 +13,7 @@ Linux System Administrator , Virtualization Enthusiast.
 
 ## Currently
 
-Standing on the shoulders of giants
+OutStanding on the shoulders of giants
 
 ### Specialized in
 
