@@ -1,8 +1,8 @@
 ---
 layout: cv
-title: Isaac Newtons's CV
+title: Adam Ali's CV
 ---
-# Isaac Newton
+# Muhamad Adam Ali
 Physicist, Mathematician, Cambridge professor.
 
 <div id="webaddress">
